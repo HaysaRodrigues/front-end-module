@@ -50,3 +50,18 @@ O <blockquote> também, agrega mais sentido quando você sabe que é uma citaç�
 #### CSS
 * é linguagem de estilização. 
 
+###### O padding é o espaço interno do componente.
+###### O margin controla os espaços externos do component. 
+
+* Todas essas regras (width, height, margin, border, padding --> content) juntas formam o que chamamos **box model** ou, em português, "modelo de caixa", do CSS.
+
+* Usar esse babado do reset do CSS: reseta todos os estilos de CSS que foram aplicados pelo browser.
+```Devemos usar um reset nos nossos projetos para eliminar diferenças de layout entre navegadores e bugs específicos de alguns navegadores. Com isso, ganhamos uma base sólida para desenvolvermos nosso site. Ou seja, todas as alternativas listam benefícios de se usar um reset.```
+
+-- No momento, estamos usando o reset do (Eric Meyer)[http://necolas.github.io/normalize.css/], mas existem várias alternativas. Uma também bastante famosa é o Normalize, criado por Nicolas Gallagher e Jonathan Neal.
+
+
+
+
+
+
