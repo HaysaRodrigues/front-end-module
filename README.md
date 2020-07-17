@@ -1,6 +1,4 @@
-# frontend module - Plano de estudos
-
-CSS - Daily UI Chanllenge
+# CSS - Daily UI Chanllenge
 
 | Challenge  | Readings |
 | ------------- | ------------- |
@@ -8,3 +6,7 @@ CSS - Daily UI Chanllenge
 | [Make a icon](https://codepen.io/haysacomsomder/pen/KKVrwpL)  | 1. https://mediatemple.net/blog/design-creative/creating-implementing-icon-font-tutorial/ |
 | Design a Flash Message with both the outcome for an error and success |  |
 | |
+
+
+# Boas práticas CSS
+1. [7 CSS Tips To Save Your Sanity](https://dev.to/okeeffed/7-css-tips-to-save-your-sanity-2a44)
